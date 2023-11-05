@@ -242,4 +242,3 @@ function
 "name" : "name_1_r_-1", "ns" : "harsh.website1"
 }
 ] (i-search)`db.website1.insert({'roll':1,'name':'harsh'});':
-
